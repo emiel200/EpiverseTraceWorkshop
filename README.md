@@ -6,9 +6,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Research Compendium of the project **{{ PLEASE ADD A FEW WORDS }}**
+Research Compendium of the project, here we provide a sample README file
+to practice reproducible coding.
 
-### How to cite
+## How to cite
 
 Please cite this compendium as:
 
@@ -27,7 +28,7 @@ Please cite this compendium as:
     #>     version = {0.0.0.9000},
     #>   }
 
-### Content
+## Content
 
 This repository is structured as follow:
 
@@ -56,9 +57,7 @@ This repository is structured as follow:
   main R script to run the entire project by calling each R script
   stored in the `analyses/` folder
 
-### Usage
-
-### Usage
+## Usage
 
 First, clone this repository. You can follow [steps on creating a new
 Rstudio Project from a GitHub
@@ -76,3 +75,27 @@ source("make.R")
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
+
+## Licenses
+
+**Text and figures :**
+[CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+
+**Code :** See the [DESCRIPTION](DESCRIPTION) file
+
+**Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
+attribution requested in reuse
+
+## Contributing
+
+Contributions are always welcome!
+
+See our [Contributing guide](/.github/CONTRIBUTING.md) for ways to get
+started.
+
+Please adhere to this project’s [Code of
+Conduct](/.github/CODE_OF_CONDUCT.md).
+
+## Support
+
+Please see our [Getting help guide](/.github/SUPPORT.md) for support.
