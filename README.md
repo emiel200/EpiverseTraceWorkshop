@@ -12,7 +12,20 @@ Research Compendium of the project **{{ PLEASE ADD A FEW WORDS }}**
 
 Please cite this compendium as:
 
-> **{{ PLEASE ADD A CITATION }}**
+    #> 
+    #> Prestige E (2023). "EpiverseTraceWorkshop: My Reproducable Project."
+    #> <https://github.com/emiel200/EpiverseTraceWorkshop>.
+    #> 
+    #> A BibTeX entry for LaTeX users is
+    #> 
+    #>   @Misc{prestige,
+    #>     title = {EpiverseTraceWorkshop: My Reproducable Project},
+    #>     author = {Em Prestige},
+    #>     url = {https://github.com/emiel200/EpiverseTraceWorkshop},
+    #>     abstract = {A paragraph providing a full description of the project (on several lines...)},
+    #>     year = {2023},
+    #>     version = {0.0.0.9000},
+    #>   }
 
 ### Content
 

@@ -1,0 +1,10 @@
+
+bibentry(bibtype = "Misc",
+         key = "prestige",
+         title = "EpiverseTraceWorkshop: My Reproducable Project",
+         author = person(given = "Em",
+                         family = "Prestige"),
+         url = "https://github.com/emiel200/EpiverseTraceWorkshop",
+         abstract = "A paragraph providing a full description of the project (on several lines...)",
+         year = 2023,
+         version = "0.0.0.9000")
