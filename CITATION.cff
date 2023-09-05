@@ -1,0 +1,24 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "EpiverseTraceWorkshop" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'EpiverseTraceWorkshop: My Reproducable Project'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Prestige
+  given-names: Em
+  email: emiel200@gmail.com
+  orcid: https://orcid.org/orcid
+repository-code: https://github.com/emiel200/EpiverseTraceWorkshop
+url: https://github.com/emiel200/EpiverseTraceWorkshop
+contact:
+- family-names: Prestige
+  given-names: Em
+  email: emiel200@gmail.com
+  orcid: https://orcid.org/orcid
